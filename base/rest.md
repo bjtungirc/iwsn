@@ -21,4 +21,4 @@ post /user
 delete /user/1
 ```
 
-[作业4](homework/work4.md)
+[作业4](../homework/work4.md)

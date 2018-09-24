@@ -19,4 +19,4 @@ git commit -m "提交的注释"
 git push origin master
 ```
 # 作业：用github搭建静态博客
-[作业1](homework/work1.md)
+[作业1](../homework/work1.md)
