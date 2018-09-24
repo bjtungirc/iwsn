@@ -45,3 +45,5 @@ select age,count(*) as count from user group by age;
 - 字符串、时间处理函数
 # 扩展学习
 非关系型数据库mongodb、redis
+# 作业
+在mysql下创建数据库test，并创建user表，user有age和name两个字段。

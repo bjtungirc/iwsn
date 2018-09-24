@@ -15,3 +15,5 @@ ws.onmessage=function(e){}
 # 非原生websocket
 - socket.io 演示
 - mqtt自带的ws
+# 可选作业：简易网页聊天室
+功能：只需要填写姓名就可加入聊天室，所有进来的都可以看到聊天内容。
