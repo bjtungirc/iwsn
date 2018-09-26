@@ -25,5 +25,6 @@ axios.delete(url[, config])
 axios.post(url[, data[, config]])
 axios.put(url[, data[, config]])
 ```
-
+# 要求
+能用JQuery fetch axios的任意一种交互方式完成与服务端的交互  
 # 作业：配合之前的增删改查接口，写一个UI

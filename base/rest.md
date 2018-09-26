@@ -12,6 +12,10 @@ python的后台框架不算少，Django、web2py、flask等。flask的用法较�
 nodejs的后台框架也很出名，Express、Koa都是简单易用的很好的框架，Node-Red也是基于Express的，也可以用来写后台接口。
 ## go
 go的web服务器性能远超前面两个，gin是一个不错的web后台框架。可以[参考](http://microfrank.top/go/)
+# 要求
+理解rest接口的交互  
+能在课上使用NodeRed进行增删改查接口的书写  
+课后学一种web后台写法，并灵活的使用该语言操作数据库。
 # 作业：写四个rest接口
 分别实现往MySQL中增 删 改 查数据
 ```

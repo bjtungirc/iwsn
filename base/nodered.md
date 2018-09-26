@@ -4,6 +4,10 @@ IBM旗下，通过`图形化拖拽`可以迅速编程。缺点是可靠性和性
 - 安装nodejs，官网下载并安装
 - 安装nodered: `npm install -g --unsafe-perm node-red`
 - 启动: `node-red`
+# 要求
+理解NodeRed的执行方式  
+能在windows和linux上安装并使用NodeRed  
+能使用NodeRed执行定时任务  
 # 作业
 1 写一个每十秒钟记录一次当前时间到文件中的例子
 

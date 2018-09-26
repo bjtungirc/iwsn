@@ -38,6 +38,11 @@ select * from user order by age DESC limit 2;
 -- 分组  
 select age,count(*) as count from user group by age;
 ```
+# 要求
+能写出数据库创建、表创建、增删改查这些最常用的语句  
+课后去学习其他复杂查询  
+课后去了解MySQL的两种引擎  
+课后去了解索引
 # * 扩展了解
 - 关联查询join
 - IN

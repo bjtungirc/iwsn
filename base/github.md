@@ -17,6 +17,19 @@ git add filename
 git commit -m "提交的注释"
 # 将本地仓库推送到远程（github）仓库
 git push origin master
+# 查看提交日志
+git log --graph
+# 查看操作日志
+git reflog
+# 回滚版本
+git reset --hard <版本号>
 ```
+# 要求
+能在本地创建git仓库，提交文件，回滚版本。  
+能提交到github，能从github拉取。  
+课后需要去完成的： 
+- 深入理解git本地三个区：工作区、缓存区、本地仓库。
+- git冲突时如何解决
+- 灵活使用branch
 # 作业：用github搭建静态博客
 [作业1](../homework/work1.md)
