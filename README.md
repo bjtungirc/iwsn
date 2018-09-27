@@ -1,6 +1,6 @@
 # 基础技能培训
 # 0 准备
-请在自己电脑上安装git、nodejs、python、xampp  
+请在自己电脑上安装git、nodejs、python、xampp、vscode、cmder
 注册github账号，认证邮箱  
 使用刚才的账号登录进入聊天室**https://gitter.im/iwsn2018/Lobby**
 # 1 必备技能
